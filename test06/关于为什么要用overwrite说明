@@ -1,0 +1,1 @@
+如果不在Vehicle里写getSumRent方法，那么如果使用Vehicle c=new Car()时，想用c.getSumRent编译会报错
